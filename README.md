@@ -1,2 +1,2 @@
-# HW_SYN_LAB_2024_1
-Some project files from HW SYN LAB that I'm proud of
+# HW SYN LAB 2024-1 lab files by JuniorMeowMeow
+For the lab that make me tried real hard
